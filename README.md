@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 <h3 align="center">Full stack web developer. Enthusiast of the kind of tech that makes our lives better. Based in Gran Canaria, Spain.</h3>
