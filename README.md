@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Full stack web developer. Enthusiast of the kind of tech that makes our lives better. Based in Gran Canaria, Spain.</h3>
+<h3 align="center">Full stack web developer. Enthusiast of the kind of tech that makes our lives better. Based in Madrid, Spain.</h3>
 
 - 👀 I’m interested in Fullstack Development, clean code and best practices. 
 - 🌱 I’m currently expanding my knowledge in Angular and Vue.js. 
