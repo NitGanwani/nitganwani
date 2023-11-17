@@ -1,9 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Full stack web developer. Enthusiast of the kind of tech that makes our lives better. Based in Madrid, Spain.</h3>
+<h3 align="center">Full Stack Web Developer passionate about leveraging technology to enhance our daily lives. Currently based in Madrid, Spain. 🌐</h3>
 
-- 👀 I’m interested in Fullstack Development, clean code and best practices. 
-- 🌱 I’m currently expanding my knowledge in Angular and Vue.js. 
+🚀 Transforming ideas into seamless web applications with a focus on clean code and best practices. 💻
+
+🔍 Constantly exploring the realms of Full Stack Development, I bring a dynamic skill set encompassing HTML, CSS/Sass, JavaScript, TypeScript, ReactJS/Redux, Angular, VueJS, NodeJS, and more.
+
+🌱 Adept at conducting code reviews, debugging, and testing to maintain high-quality code. My journey includes guiding students in refining their coding skills as an Assistant Professor at ISDI Coders.
+
+Let's connect and collaborate on innovative projects! 🌟
 
 ### 📫 Connect with me
 
