@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Full Stack Web Developer passionate about leveraging technology to enhance our daily lives. Currently based in Madrid, Spain. 🌐</h3>
+<h3 align="center">Full Stack Web Developer passionate about leveraging technology to enhance our daily lives. Currently based in Gran Canaria, Spain. 🌐</h3>
 
 🚀 Transforming ideas into seamless web applications with a focus on clean code and best practices. 💻
 
