@@ -11,7 +11,7 @@
 🌱 Background note: before moving into tech, I spent 5+ years leading international teams in hospitality — it shaped how I communicate across technical and non-technical stakeholders.
 
 ### 📫 Connect with me
-[![Gmail](...)](mailto:nitganwani@gmail.com) [![LinkedIn](...)](https://www.linkedin.com/in/nitin-ganwani/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitganwani@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-ganwani/)
 
 ### Languages & Tools
-![React](...) ![TypeScript](...) ![JavaScript](...) ![Node.js](...) ![Express](...) ![MongoDB](...) ![HTML5](...) ![CSS3/Sass](...) ![Git](...) ![Jest](...)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) ![Express](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg) ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) ![CSS3/Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg) ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)
