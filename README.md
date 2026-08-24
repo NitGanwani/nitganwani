@@ -1,21 +1,17 @@
+# Hi 👋, I'm Nitin
 
-<h1 align="center">Hi 👋, I'm Nitin</h1>
-<h3 align="center">Full Stack Web Developer passionate about leveraging technology to enhance our daily lives. Currently based in Gran Canaria, Spain. 🌐</h3>
+### Frontend Developer (React · TypeScript) building production-grade web apps, with hands-on full-stack experience in Node.js and Express. Based in Gran Canaria, Spain 🌍
 
-🚀 Transforming ideas into seamless web applications with a focus on clean code and best practices. 💻
+🚀 Currently building React + TypeScript features at [Idrica](https://www.idrica.com), focused on component-driven architecture, performance, and clean code.
 
-🔍 Constantly exploring the realms of Full Stack Development, I bring a dynamic skill set encompassing HTML, CSS/Sass, JavaScript, TypeScript, ReactJS/Redux, Angular, VueJS, NodeJS, and more.
+💻 I bring a full-stack foundation — check out **OnlyFilms** below, a personal project with a separate React/TS frontend and a Node.js/Express backend.
 
-🌱 Adept at conducting code reviews, debugging, and testing to maintain high-quality code. My journey includes guiding students in refining their coding skills as an Assistant Professor at ISDI Coders.
+🤖 I use GitHub Copilot as part of my daily workflow to ship faster without compromising code quality.
 
-Let's connect and collaborate on innovative projects! 🌟
+🌱 Background note: before moving into tech, I spent 5+ years leading international teams in hospitality — it shaped how I communicate across technical and non-technical stakeholders.
 
 ### 📫 Connect with me
+[![Gmail](...)](mailto:nitganwani@gmail.com) [![LinkedIn](...)](https://www.linkedin.com/in/nitin-ganwani/)
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitganwani@gmail.com) 
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-ganwani/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ganwani/)
-  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://devicons.dev.br/icons?icon=Angular&theme=dark" alt="angular" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://devicons.dev.br/icons?icon=VueJS&theme=dark" alt="vue" width="40" height="40"/> </a> </p>
+### Languages & Tools
+![React](...) ![TypeScript](...) ![JavaScript](...) ![Node.js](...) ![Express](...) ![MongoDB](...) ![HTML5](...) ![CSS3/Sass](...) ![Git](...) ![Jest](...)
